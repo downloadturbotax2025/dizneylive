@@ -10,7 +10,7 @@ How to Activate Disney+ at disneyplus.com/begin
    :align: center
    :height: 100px
 
-.. image:: ACTIVATE NOW.png
+.. image:: 
    :width: 350px
    :align: center
    :height: 100px
